@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Atuhaire Ambala"
   avatar : "/assets/images/Atu Headshot.JPG"
-  bio    : "Gradaute Teaching Assistant at Colorado State University"
+  bio    : "Graduate Teaching Assistant at Colorado State University"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
