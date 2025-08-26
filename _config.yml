@@ -80,7 +80,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/atuhaire-ambala/"
-     - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AtuAmbala/"
     #- label: "Instagram"
