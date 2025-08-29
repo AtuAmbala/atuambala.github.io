@@ -1,0 +1,3 @@
+# Used on posts and pages that show a date
+post_date:
+  label: "Date published"
