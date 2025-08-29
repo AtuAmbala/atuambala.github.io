@@ -3,11 +3,10 @@ layout: single
 title: Projects
 permalink: /projects/
 author_profile: true
-read_time: true
 ---
 
 {% for project in site.projects %}
-  <div class="project-entry">
+  <div class="project-entry" style="border: none;">
     <a href="{{ project.url | relative_url }}">
       <h2>{{ project.title }}</h2>
     </a>
