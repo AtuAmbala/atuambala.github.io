@@ -20,7 +20,7 @@ author_profile: true
 {% if site.projects %}
   <ul>
   {% for project in site.projects %}
-    <li>
+  
       <a href="{{ project.url | relative_url }}">
         <h3>{{ project.title }}</h3>
       </a>
@@ -28,7 +28,7 @@ author_profile: true
         <p>{{ project.subtitle }}</p>
       {% endif %}
       <p>{{ project.excerpt | strip_html | truncatewords: 20 }}</p>
-    </li>
+
   {% endfor %}
   </ul>
 {% else %}
