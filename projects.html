@@ -18,7 +18,6 @@ author_profile: true
   {% endfor %}
 </ul>-->
 {% if site.projects %}
-  <ul>
   {% for project in site.projects %}
   
       <a href="{{ project.url | relative_url }}">
@@ -30,7 +29,6 @@ author_profile: true
       <p>{{ project.excerpt | strip_html | truncatewords: 20 }}</p>
 
   {% endfor %}
-  </ul>
 {% else %}
   <p>No projects found. Please add a markdown file to the `_projects` folder to get started!</p>
 {% endif %}
