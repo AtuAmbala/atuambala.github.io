@@ -7,7 +7,7 @@ author_profile: true
 
 <!--<h1>Projects</h1>-->
 
-<ul>
+<!--<ul>
   {% for project in site.projects %}
     <li>
       <a href="{{ project.url | relative_url }}">
@@ -16,4 +16,21 @@ author_profile: true
       </a>
     </li>
   {% endfor %}
-</ul>
+</ul>-->
+{% if site.projects %}
+  <ul>
+  {% for project in site.projects %}
+    <li>
+      <a href="{{ project.url | relative_url }}">
+        <h3>{{ project.title }}</h3>
+      </a>
+      {% if project.subtitle %}
+        <p>{{ project.subtitle }}</p>
+      {% endif %}
+      <p>{{ project.excerpt | strip_html | truncatewords: 20 }}</p>
+    </li>
+  {% endfor %}
+  </ul>
+{% else %}
+  <p>No projects found. Please add a markdown file to the `_projects` folder to get started!</p>
+{% endif %}
