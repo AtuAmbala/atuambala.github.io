@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Shop Keeper Project"
-subtitle: "A description of my first project."
+subtitle: "A project aimed at simulating the register at checkout and then printing out a receipt"
 date: 2021-12-2
 permalink: /projects/shopkeeper/
 author_profile: true
