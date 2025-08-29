@@ -5,30 +5,18 @@ permalink: /projects/
 author_profile: true
 ---
 
-<!--<h1>Projects</h1>-->
-
-<!--<ul>
-  {% for project in site.projects %}
-    <li>
-      <a href="{{ project.url | relative_url }}">
-        <h2>{{ project.title }}</h2>
-        <p>{{ project.subtitle }}</p>
-      </a>
-    </li>
-  {% endfor %}
-</ul>-->
 {% if site.projects %}
-  {% for project in site.projects %}
-  
-      <a href="{{ project.url | relative_url }}">
-        <h3>{{ project.title }}</h3>
-      </a>
-      {% if project.subtitle %}
-        <p>{{ project.subtitle }}</p>
-      {% endif %}
-      <p>{{ project.excerpt | strip_html | truncatewords: 20 }}</p>
+  {% for project in site.projects %}
+  
+      <a href="{{ project.url | relative_url }}">
+        <h3>{{ project.title }}</h3>
+      </a>
+      {% if project.subtitle %}
+        <p>{{ project.subtitle }}</p>
+      {% endif %}
+      <p>{{ project.excerpt | strip_html | truncatewords: 20 }}</p>
 
-  {% endfor %}
+  {% endfor %}
 {% else %}
-  <p>No projects found. Please add a markdown file to the `_projects` folder to get started!</p>
+  <p>No projects found. Please add a markdown file to the `_projects` folder to get started!</p>
 {% endif %}
