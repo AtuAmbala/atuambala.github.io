@@ -7,9 +7,6 @@ permalink: /projects/shopkeeper/
 author_profile: true
 read_time: true
 ---
-
-## Shopkeeper Project
-
 This is a **Python application** I developed to simulate a shopkeeper's inventory and order management system. The project was built with a strong focus on **Object-Oriented Programming (OOP)** principles and the creation of a **Graphical User Interface (GUI)**.
 
 The application allows a shopkeeper to:
