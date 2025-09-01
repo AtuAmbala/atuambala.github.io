@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Compiler"
-subtitle: "Building a compiler from scratch using c"
+subtitle: "Building a custom compiler from scratch"
 date: 2024-12-15
 permalink: /projects/compiler/
 author_profile: true
