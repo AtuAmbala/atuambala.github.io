@@ -19,7 +19,7 @@ Key features of this project include:
 
 This project showcases my ability to work with **low-level systems programming**, demonstrating a strong grasp of memory management and an in-depth understanding of how operating systems handle file systems and processes. It was a great exercise in building a core piece of software from the ground up, providing valuable insights into the architecture of modern operating systems.
 
-<img width="119" height="20" alt="image" src="https://github.com/user-attachments/assets/7354d37b-7d8c-4a21-83dd-c41e88809d15" />
+<img width="1190" height="200" alt="image" src="https://github.com/user-attachments/assets/7354d37b-7d8c-4a21-83dd-c41e88809d15" />
 
 
 See a demo of the shell in action [here](https://www.loom.com/share/c320cd3f5d154cde9abfa8838f42c3f7?sid=598647ea-a6f5-41f2-aa85-b86b4f23ee2f) and explore the full codebase on [GitHub](https://github.com/AtuAmbala/CST-315/tree/main/Project6%3AFileSystemManager.git).
