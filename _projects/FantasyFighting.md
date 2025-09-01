@@ -22,4 +22,4 @@ By implementing this structure, I focused on creating a **robust, scalable, and 
 <img width="959" height="660" alt="Fantasy_Game_UML" src="https://github.com/user-attachments/assets/2787aafd-a20e-4ec5-9283-4c7e211e494b" />
 
 
-**Want to see it in action?** Check out the full demo video, or dive into the code on the project's [GitHub repository](https://github.com/AtuAmbala/Projects/tree/main/FantasyFightGame).
+**Want to see it in action?** Check out the full [demo video](https://www.youtube.com/watch?v=Bh_nOo4jjD4), or dive into the code on the project's [GitHub repository](https://github.com/AtuAmbala/Projects/tree/main/FantasyFightGame).
