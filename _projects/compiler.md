@@ -35,3 +35,5 @@ The compiler supports a wide range of features, showcasing advanced systems prog
 * **Complex Data Types and Operations:** The compiler correctly handles **arrays**, including their declaration, assignment, and access. It also processes complex **arithmetic and logical Boolean expressions**, respecting the correct **order of operations**.
 * **Functions and Scoping:** The compiler manages function declarations and calls, correctly handling **variable scope** to ensure that variables are accessed and modified in the intended context.
 * **Performance Metrics:** The final compiler is efficient, with a recorded execution time of just 2.85 milliseconds. The generated MIPS code for a 168-line C-- program results in 840 lines of M
+
+This Porject was done in collaboration with Owen Kroeger
