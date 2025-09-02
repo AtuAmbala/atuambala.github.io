@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% for project in site.projects %}
+{% for project in site.projects reversed %}
   <div class="project-entry" style="border: none;">
     <a href="{{ project.url | relative_url }}">
       <h2>{{ project.title }}</h2>
