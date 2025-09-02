@@ -37,3 +37,5 @@ The compiler supports a wide range of features, showcasing advanced systems prog
 * **Performance Metrics:** The final compiler is efficient, with a recorded execution time of just 2.85 milliseconds. The generated MIPS code for a 168-line C-- program results in 840 lines of M
 
 This project was done in collaboration with Owen Kroeger
+
+Check out this  [demo video](), or dive into the code on the project's [GitHub repository](https://github.com/AtuAmbala/Projects/tree/main/Compiler).
