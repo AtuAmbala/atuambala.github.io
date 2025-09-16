@@ -1,19 +1,23 @@
 ---
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
+subtitle: "Using Nueral Networks to detect deep fake videos"
+date: 2025-09-15
+permalink: /posts/deepFake/
+read_time: true
 categories:
   - Blog
 tags:
   - Publications
 ---
 
-### The Problem: The Rise of Deepfakes 🚨
+### The Problem: The Rise of Deepfakes 
 
 Deepfake technology is a growing threat to determining authentic media from fake, AI-generated content. With the rise of powerful AI models, it's becoming increasingly difficult to tell what is real from what is fake. While many deepfakes are created for entertainment, they can also be used to manipulate groups of people, which can be dangerous.
 
 ---
 
-### Our Approach: Facial Landmark Analysis 🧐
+### Our Approach: Facial Landmark Analysis 
 
 Our research explored a novel technique that focuses on the differences in facial movements to find abnormalities in a video. We hypothesized that artificially generated videos would fail to capture fully realistic movements of facial features, like the eyes and mouth, giving rise to subtle inconsistencies that our model could detect.
 
@@ -25,7 +29,7 @@ To test this, we used a dataset of real and deepfake videos. Our methodology inv
 
 ---
 
-### Our Results: RNN Shines ✨
+### Our Results: RNN Shines 
 
 We found that the **RNN model was the best performer**. It was tied with the ANN model in accuracy, but it required less computational power than the other models.
 
