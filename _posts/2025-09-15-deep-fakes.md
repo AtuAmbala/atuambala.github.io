@@ -1,3 +1,12 @@
+---
+title: "Post: Standard"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Publications
+---
+
 ### The Problem: The Rise of Deepfakes 🚨
 
 Deepfake technology is a growing threat to determining authentic media from fake, AI-generated content. With the rise of powerful AI models, it's becoming increasingly difficult to tell what is real from what is fake. While many deepfakes are created for entertainment, they can also be used to manipulate groups of people, which can be dangerous.
