@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Deep Fake Videos"
 excerpt_separator: "<!--more-->"
 subtitle: "Using Nueral Networks to detect deep fake videos"
 date: 2025-09-15
