@@ -43,5 +43,5 @@ The findings of the paper emphasize the importance of facial feature analysis in
 
 ### Links
 
-* **Full Paper**: [https://arxiv.org/abs/2507.18815](https://arxiv.org/abs/2507.18815)
-* **GitHub Repository**: [https://github.com/BenCarter44/ANN440](https://github.com/BenCarter44/ANN440)
+* [**Full Paper**](https://arxiv.org/abs/2507.18815)
+* [**GitHub Repository**](https://github.com/BenCarter44/ANN440)
