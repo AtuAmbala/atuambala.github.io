@@ -3,7 +3,7 @@ title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 subtitle: "Using Nueral Networks to detect deep fake videos"
 date: 2025-09-15
-permalink: /posts/deepFake/
+permalink: /posts/deep-fakes/
 read_time: true
 categories:
   - Blog
